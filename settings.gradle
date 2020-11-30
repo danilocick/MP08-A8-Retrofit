@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MP08-A8-Retrofit"
